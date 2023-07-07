@@ -45,6 +45,7 @@
 					    <li class="px-3">
 					    	<a href="#">
 					    		tester1234님께서 채팅을 남기셨습니다.
+					    		<!-- 사용자 정보로 바꾸기 -->
 					    		<span class="alarm-time" style="color:#737373;">n초전</span>
 					    	</a>
 					    </li>
